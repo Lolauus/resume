@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/resume.git/static/css/main.f92da7d6.css",
+    "main.js": "/resume.git/static/js/main.2ec2950f.js",
+    "index.html": "/resume.git/index.html",
+    "main.f92da7d6.css.map": "/resume.git/static/css/main.f92da7d6.css.map",
+    "main.2ec2950f.js.map": "/resume.git/static/js/main.2ec2950f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f92da7d6.css",
+    "static/js/main.2ec2950f.js"
+  ]
+}
